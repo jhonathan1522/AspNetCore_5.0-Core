@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj": {}
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj",
         "projectName": "AspNetCore.Abstractions",
-        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj",
+        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj",
         "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\obj\\",
+        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj": {
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj",
         "projectName": "AspNetCore.DataAccess",
-        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj",
+        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj",
         "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,14 +82,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj"
+              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj"
               },
-              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Entities\\AspNetCore.Entities.csproj": {
-                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Entities\\AspNetCore.Entities.csproj"
+              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Entities\\AspNetCore.Entities.csproj": {
+                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Entities\\AspNetCore.Entities.csproj"
               },
-              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\AspNetCore.Services.csproj": {
-                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\AspNetCore.Services.csproj"
+              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\AspNetCore.Services.csproj": {
+                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\AspNetCore.Services.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Entities\\AspNetCore.Entities.csproj": {
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Entities\\AspNetCore.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Entities\\AspNetCore.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Entities\\AspNetCore.Entities.csproj",
         "projectName": "AspNetCore.Entities",
-        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Entities\\AspNetCore.Entities.csproj",
+        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Entities\\AspNetCore.Entities.csproj",
         "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Entities\\obj\\",
+        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,8 +180,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj"
+              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\AspNetCore.Services.csproj": {
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\AspNetCore.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\AspNetCore.Services.csproj",
+        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\AspNetCore.Services.csproj",
         "projectName": "AspNetCore.Services",
-        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\AspNetCore.Services.csproj",
+        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\AspNetCore.Services.csproj",
         "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\obj\\",
+        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,8 +238,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj"
+              "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj"
               }
             }
           }

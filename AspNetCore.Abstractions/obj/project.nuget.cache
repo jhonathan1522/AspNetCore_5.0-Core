@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHm8qGadVDYcRMIThBuuNObcBDV0nzcvjTxVAXyFzO1ezOHY30YRZbDsoYLqRge1uCO8vTAhwWH8N7Z6aYheTg==",
+  "dgSpecHash": "y1gTwc0paZT2G2XkRXeVPdnzfUYrf5q2g/H3oTqsrlAooGlu/i/d6QRRaEto7CAgosLt+lHdQ4BgvQy0A7z0Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Abstractions\\AspNetCore.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

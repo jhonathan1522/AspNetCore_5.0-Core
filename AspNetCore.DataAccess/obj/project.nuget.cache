@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eiFzBHz+EnJc/WWI72SOcFyFWA2huXfXoF2euRXiBGPgEUSJBT2MCTBj4Ry/Wbuxn1efBnDa5IQuISCMaNZ7ww==",
+  "dgSpecHash": "CTQQmuT684R7Qv/hyj660k9nI1wRs8TXN3u3UijsbT+KerfeoouaPB3oPE6nd050dqfbYn/4YACC35ZJgOKV1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.15\\microsoft.aspnetcore.cryptography.internal.5.0.15.nupkg.sha512",

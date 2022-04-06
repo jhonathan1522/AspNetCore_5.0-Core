@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nk64VioJc+Wyt0ZOcQ411DP7eigyOWcj81VH3ztkz8yLz6fUpV7Y+hitbwjPyc6NxdR/dA7SiqF9JsnuHF/PyQ==",
+  "dgSpecHash": "YflIUfMKJEvfVu6rAObrp0syGnwHM91dapfDUi1k+MjajPANK3y8ZWeBwr9zME3xKKjAaGuYL3RlZ3a9Iw5gMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.WebApi\\AspNetCore.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.WebApi\\AspNetCore.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

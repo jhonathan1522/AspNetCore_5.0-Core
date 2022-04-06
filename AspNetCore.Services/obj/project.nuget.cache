@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQm34kscNHy4VNxagu1J2kNBPKvminUYdBaQkHgPsaqfr7N7zqtFFgmnyJdNcTz8zs9/8RZeyvV1S8fnNTYqYA==",
+  "dgSpecHash": "Ap0GWzfHSzw7MziaI0RljCGBNYzuH8eDB9uG3bN5TaUu5RhxLvvxz3UDhIR44RhNRpNimNJ9YL/wsQ3luPbfXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore.Services\\AspNetCore.Services.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\Cursos\\Curso de Microservicios .Net\\AspNetCore\\AspNetCore\\AspNetCore_5.0-Core\\AspNetCore.Services\\AspNetCore.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

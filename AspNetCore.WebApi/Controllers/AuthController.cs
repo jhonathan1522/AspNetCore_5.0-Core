@@ -32,14 +32,14 @@ namespace AspNetCore.WebApi.Controllers
             // Si el objeto es valido
             if (ModelState.IsValid)
             {
-                var existingUser = await _userManager.FindByEmailAsync(user.Email);
+                var existingUser = await _userManager.FindByEmailAsync(user.UserName);
                 if (existingUser != null)
                 {
                     return BadRequest("El correo electronico ingresado ya exite");
                 }
 
 
-                var isCreate = await _userManager.CreateAsync(new IdentityUser() { Email = user.Email, UserName = user.Name }, user.Password);
+                var isCreate = await _userManager.CreateAsync(new IdentityUser() { Email = user.Email, UserName = user.UserName }, user.Password);
 
                 if (isCreate.Succeeded)
                 {
