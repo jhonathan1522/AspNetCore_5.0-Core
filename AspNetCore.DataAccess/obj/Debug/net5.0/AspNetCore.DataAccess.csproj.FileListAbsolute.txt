@@ -1,0 +1,66 @@
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.runtimeconfig.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.runtimeconfig.dev.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\ref\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Entities.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\ref\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.genruntimeconfig.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.runtimeconfig.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.runtimeconfig.dev.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\ref\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\bin\Debug\net5.0\AspNetCore.Entities.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\ref\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.genruntimeconfig.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.runtimeconfig.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.runtimeconfig.dev.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\ref\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.DataAccess.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\bin\Debug\net5.0\AspNetCore.Entities.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\ref\AspNetCore.DataAccess.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.DataAccess\obj\Debug\net5.0\AspNetCore.DataAccess.genruntimeconfig.cache

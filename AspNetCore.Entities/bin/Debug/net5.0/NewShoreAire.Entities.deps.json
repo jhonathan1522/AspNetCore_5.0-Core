@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NewShoreAire.Entities/1.0.0": {
+        "dependencies": {
+          "NewShoreAir.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "NewShoreAire.Entities.dll": {}
+        }
+      },
+      "NewShoreAir.Abstractions/1.0.0": {
+        "runtime": {
+          "NewShoreAir.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewShoreAire.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewShoreAir.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\bin\Debug\net5.0\NewShoreAire.Entities.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\bin\Debug\net5.0\NewShoreAire.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\bin\Debug\net5.0\ref\NewShoreAire.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\bin\Debug\net5.0\NewShoreAire.Entities.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\bin\Debug\net5.0\NewShoreAir.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\bin\Debug\net5.0\NewShoreAir.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\ref\NewShoreAire.Entities.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAire.Entities\obj\Debug\net5.0\NewShoreAire.Entities.pdb

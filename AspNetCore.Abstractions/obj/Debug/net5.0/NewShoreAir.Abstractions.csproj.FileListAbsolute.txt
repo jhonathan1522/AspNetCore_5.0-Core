@@ -1,0 +1,11 @@
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\NewShoreAir.Abstractions.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\NewShoreAir.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\ref\NewShoreAir.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\NewShoreAir.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\NewShoreAir.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\NewShoreAir.Abstractions.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\NewShoreAir.Abstractions.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\NewShoreAir.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\NewShoreAir.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\ref\NewShoreAir.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\NewShoreAir.Abstractions.pdb

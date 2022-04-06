@@ -1,0 +1,35 @@
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\ref\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\ref\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\bin\Debug\net5.0\ref\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\ref\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\bin\Debug\net5.0\ref\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\ref\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Abstractions\obj\Debug\net5.0\AspNetCore.Abstractions.pdb

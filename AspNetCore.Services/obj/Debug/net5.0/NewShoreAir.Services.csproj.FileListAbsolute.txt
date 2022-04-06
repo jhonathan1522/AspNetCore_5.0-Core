@@ -1,0 +1,12 @@
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\NewShoreAir.Services.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\NewShoreAir.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\ref\NewShoreAir.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\NewShoreAir.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\ref\NewShoreAir.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\NewShoreAir.Services.pdb

@@ -1,0 +1,42 @@
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Services.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\ref\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\ref\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\NewShoreAir\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Services.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\bin\Debug\net5.0\ref\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\ref\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Empresas\NewShore\NewShoreAir\AspNetCore\NewShoreAir.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\bin\Debug\net5.0\AspNetCore.Services.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\bin\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\bin\Debug\net5.0\ref\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\bin\Debug\net5.0\AspNetCore.Services.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\bin\Debug\net5.0\AspNetCore.Abstractions.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\bin\Debug\net5.0\AspNetCore.Abstractions.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\ref\AspNetCore.Services.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\Cursos\Curso de Microservicios .Net\AspNetCore\AspNetCore\AspNetCore.Services\obj\Debug\net5.0\AspNetCore.Services.pdb
